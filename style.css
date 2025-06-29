@@ -1,0 +1,14 @@
+
+body {
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+  padding: 50px;
+  color: #333;
+}
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
